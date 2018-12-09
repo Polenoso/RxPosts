@@ -1,0 +1,143 @@
+[
+  {
+    "catalog_id": "402150",
+    "coupon": {
+      "Buttons": [
+        {
+          "action": 1,
+          "text": "Ver online"
+        }
+      ],
+      "description": "Los mejores descuentos en The Body Shop"
+    },
+    "date_end": "1480460400",
+    "nearest_store": {
+      "distance": "0,4063797",
+      "latitude": "41,38345",
+      "longitude": "2,17269",
+      "phone_number": "933437097",
+      "store_address": "Carrer de la Portaferrisa, 11",
+      "store_city": "Barcelona",
+      "store_id": "26342",
+      "store_name": "The Body Shop",
+      "store_zip_code": "08002",
+      "web_url": "http://www.thebodyshop.es"
+    },
+    "retailer_id": "413",
+    "retailer_name": "The Body Shop"
+  },
+  {
+    "catalog_id": "398098",
+    "date_end": "1480806000",
+    "nearest_store": {
+      "distance": "0,6514784",
+      "latitude": "41,37568",
+      "longitude": "2,182321",
+      "phone_number": "93 225 8055",
+      "store_address": " Moll d´Espanya s/n",
+      "store_city": "Barcelona",
+      "store_id": "28915",
+      "store_name": "MANGO",
+      "store_zip_code": "08039",
+      "web_url": "http://shop.mango.com"
+    },
+    "retailer_id": "538",
+    "retailer_name": "MANGO"
+  },
+  {
+    "catalog_id": "401906",
+    "coupon": {
+      "Buttons": [
+        {
+          "action": 1,
+          "text": "Ver online"
+        }
+      ],
+      "description": "Llévate más capsulas por menos con NESCAFÉ® Dolce Gusto®"
+    },
+    "date_end": "1480374000",
+    "retailer_id": "1955",
+    "retailer_name": "NESCAFÉ® Dolce Gusto®"
+  },
+  {
+    "catalog_id": "390963",
+    "date_end": "1480460400",
+    "nearest_store": {
+      "distance": "0,6514784",
+      "latitude": "41,37568",
+      "longitude": "2,182321",
+      "phone_number": "93 225 8055",
+      "store_address": " Moll d´Espanya s/n",
+      "store_city": "Barcelona",
+      "store_id": "28915",
+      "store_name": "MANGO",
+      "store_zip_code": "08039",
+      "web_url": "http://shop.mango.com"
+    },
+    "retailer_id": "538",
+    "retailer_name": "MANGO"
+  },
+  {
+    "catalog_id": "397883",
+    "coupon": {
+      "Buttons": [
+        {
+          "action": 2,
+          "text": "Mostrar en caja"
+        }
+      ],
+      "description": "Incréible ofertas en la sección niños de MANGO"
+    },
+    "date_end": "1480460400",
+    "nearest_store": {
+      "distance": "0,6514784",
+      "latitude": "41,37568",
+      "longitude": "2,182321",
+      "phone_number": "93 225 8055",
+      "store_address": " Moll d´Espanya s/n",
+      "store_city": "Barcelona",
+      "store_id": "28915",
+      "store_name": "MANGO",
+      "store_zip_code": "08039",
+      "web_url": "http://shop.mango.com"
+    },
+    "retailer_id": "538",
+    "retailer_name": "MANGO"
+  },
+  {
+    "catalog_id": "402283",
+    "date_end": "1480806000",
+    "nearest_store": {
+      "distance": "5,076533",
+      "latitude": "41,35469",
+      "longitude": "2,123955",
+      "phone_number": "",
+      "store_address": "Districte Econòmic",
+      "store_city": "L'Hospitalet de Llobregat",
+      "store_id": "371",
+      "store_name": "IKEA Gran Vía",
+      "store_zip_code": "08908",
+      "web_url": "http://www.ikea.com/es/es/preindex.html"
+    },
+    "retailer_id": "40",
+    "retailer_name": "IKEA"
+  },
+  {
+    "catalog_id": "401587",
+    "date_end": "1481065200",
+    "nearest_store": {
+      "distance": "0,9072437",
+      "latitude": "41,38598",
+      "longitude": "2,157883",
+      "phone_number": "",
+      "store_address": "C/ Casanova, 77-79",
+      "store_city": "Barcelona",
+      "store_id": "1028",
+      "store_name": "Lidl",
+      "store_zip_code": "8011",
+      "web_url": "http://www.lidl.es"
+    },
+    "retailer_id": "110",
+    "retailer_name": "Lidl"
+  }
+]
